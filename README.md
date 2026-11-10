@@ -176,8 +176,8 @@ Dados atualizados a cada **5 minutos** e auditados diariamente. Referência comp
 | Plano | Preço | Requisições/dia | Inclui |
 |---|---|---|---|
 | **BASIC** | Grátis | 100 | Competições, tabela, jogos, times, jogadores |
-| **PRO** | US$ 9,99/mês | 5.000 | + eventos, escalações, estatísticas de partida e temporada |
-| **ULTRA** | US$ 24,99/mês | 30.000 | + probabilidades, confronto direto, xG de jogadores, ratings |
+| **PRO** | US$ 5,99/mês | 5.000 | + eventos, escalações, estatísticas de partida e temporada |
+| **ULTRA** | US$ 12,99/mês | 30.000 | + probabilidades, confronto direto, xG de jogadores, ratings |
 | **MEGA** | US$ 59,99/mês | 150.000 | Tudo do ULTRA com cota maior |
 
 Assinatura pela [RapidAPI](https://rapidapi.com/wagnyoliver/api/futapi).
